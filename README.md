@@ -4,7 +4,7 @@
 
 [`AI桌面助手机器人Echo`](./DeskBot_demo/README.md)就是把他们融合起来做成的, LVGL作为UI界面, 这些高级demo作为子APP～
 
-AI桌面助手机器人最终的效果视频演示：https://www.bilibili.com/video/BV1685qztEec
+AI桌面助手机器人最终的效果视频演示：https://www.bilibili.com/video/BV161ZaYyEmF
 
 **注意** ：此demo移植的是Echo-Mate子仓库，目前硬件还没有完全适配milkv，项目原地址见：https://github.com/No-Chicken/Echo-Mate
 
