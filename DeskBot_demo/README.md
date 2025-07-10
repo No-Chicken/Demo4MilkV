@@ -1,7 +1,5 @@
 ## DeskBot demo
 
-目前硬件common部分还没改，请不要将`LV_USE_SIMULATOR`置`0`
-
 ### 1.编译
 1. **在电脑上运行SDL仿真**
 
@@ -24,7 +22,7 @@
 
 2. **编译到开发板上运行**
 
-    注意更改conf/dev_conf, 将`LV_USE_SIMULATOR`置`0`
+    目前硬件common部分还没改，请不要将`LV_USE_SIMULATOR`置`0`
 
     ```sh
     cd ./build
