@@ -1,6 +1,6 @@
 <h1 align="center">Demos for milkv duos</h2>
 
-这个仓库存放着Echo开发板的各种例程, 包括LVGL, AI对话机器人, 机器视觉等独立的demo。
+这个仓库存放着开发板的各种例程, 包括LVGL, AI对话机器人, 机器视觉等独立的demo。
 
 [`AI桌面助手机器人Echo`](./DeskBot_demo/README.md)就是把他们融合起来做成的, LVGL作为UI界面, 这些高级demo作为子APP～
 
